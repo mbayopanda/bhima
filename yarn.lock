@@ -257,10 +257,10 @@
   dependencies:
     defer-to-connect "^2.0.0"
 
-"@types/angular@^1.6.25", "@types/angular@^1.8.1":
-  version "1.8.1"
-  resolved "https://registry.npmjs.org/@types/angular/-/angular-1.8.1.tgz#940b16476adff7b66608aae778e5e9f1c57ab847"
-  integrity sha512-8zEjTC3gpkva6/dbUkiSxIUGUxYm9HD/pJJ0lbqfEM2TWqi/3vs4VtgoFxVXt5bmuJ+6G2caO2HaMD+NzB1VwA==
+"@types/angular@^1.6.25", "@types/angular@^1.8.3":
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/@types/angular/-/angular-1.8.3.tgz#97602244b685113ce9dc27823471b67d28f5ba3e"
+  integrity sha512-vgc5Z+TD07DT7NEUjFm6XMp0kEbGXIa95XmOL5IiHXR9LdrJpcdDh3jl1nCuZbWyzFn5/1OqtMfomcnA1sUFXQ==
 
 "@types/cacheable-request@^6.0.1":
   version "6.0.1"
