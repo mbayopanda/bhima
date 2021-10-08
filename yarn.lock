@@ -8990,10 +8990,10 @@ uglify-js@^3.0.5, uglify-js@^3.1.4:
   resolved "https://registry.npmjs.org/uglify-js/-/uglify-js-3.13.9.tgz#4d8d21dcd497f29cfd8e9378b9df123ad025999b"
   integrity sha512-wZbyTQ1w6Y7fHdt8sJnHfSIuWeDgk6B5rCb4E/AM6QNNPbOMIZph21PW5dRB3h7Df0GszN+t7RuUH6sWK5bF0g==
 
-ui-select@0.17.1:
-  version "0.17.1"
-  resolved "https://registry.npmjs.org/ui-select/-/ui-select-0.17.1.tgz#d3112da6551d08656d795d20026e33a6152c8250"
-  integrity sha1-0xEtplUdCGVteV0gAm4zphUsglA=
+ui-select@0.19.8:
+  version "0.19.8"
+  resolved "https://registry.yarnpkg.com/ui-select/-/ui-select-0.19.8.tgz#74860848a7fd8bc494d9856d2f62776ea98637c1"
+  integrity sha1-dIYISKf9i8SU2YVtL2J3bqmGN8E=
 
 uid-safe@~2.1.5:
   version "2.1.5"
