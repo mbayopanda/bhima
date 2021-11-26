@@ -3196,13 +3196,13 @@ expand-tilde@^2.0.0, expand-tilde@^2.0.2:
   dependencies:
     homedir-polyfill "^1.0.1"
 
-express-handlebars@^5.3.4:
-  version "5.3.4"
-  resolved "https://registry.yarnpkg.com/express-handlebars/-/express-handlebars-5.3.4.tgz#49bd9ca326e0cfda64c0938ef84f636f9db98755"
-  integrity sha512-b36grfkbXZItLLQV6cwzA20o6Zg4Eckke3PjHF4EGQIQLGs5IPMjpAxepdGb45A/bECekXzA9STzNqvEgrdRPw==
+express-handlebars@^6.0.2:
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/express-handlebars/-/express-handlebars-6.0.2.tgz#4d377751e3ef70a661aba76d921dee563b08b35a"
+  integrity sha512-PXNT4oDHIDbg0/QBXPwf2laTi+eqErEJ3Ldc7Ky6WHpr7xJMoltsnPM7lScjN6sWZWaIPNdDYJvV+6P9cnv1pg==
   dependencies:
     glob "^7.2.0"
-    graceful-fs "^4.2.7"
+    graceful-fs "^4.2.8"
     handlebars "^4.7.7"
 
 express-session@^1.17.2:
@@ -4027,7 +4027,7 @@ got@^9.6.0:
     to-readable-stream "^1.0.0"
     url-parse-lax "^3.0.0"
 
-graceful-fs@^4.0.0, graceful-fs@^4.1.11, graceful-fs@^4.1.2, graceful-fs@^4.1.6, graceful-fs@^4.2.0, graceful-fs@^4.2.4, graceful-fs@^4.2.6, graceful-fs@^4.2.7:
+graceful-fs@^4.0.0, graceful-fs@^4.1.11, graceful-fs@^4.1.2, graceful-fs@^4.1.6, graceful-fs@^4.2.0, graceful-fs@^4.2.4, graceful-fs@^4.2.6, graceful-fs@^4.2.8:
   version "4.2.8"
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.8.tgz#e412b8d33f5e006593cbd3cee6df9f2cebbe802a"
   integrity sha512-qkIilPUYcNhJpd33n0GBXTB1MMPp14TxEsEs0pTrsSVucApsYzW5V+Q8Qxhik6KU3evy+qkAAowTByymK0avdg==
