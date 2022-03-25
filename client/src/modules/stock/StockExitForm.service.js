@@ -309,6 +309,7 @@ function StockExitFormService(
       const match = lot;
       match.quantity = requested.quantity;
       match.condition_id = requested.condition_id;
+      match.unit_type = requested.unit_type;
 
       let requestedQuantity = match.quantity;
 

@@ -65,11 +65,10 @@ function CreateShipmentController(
         cellTemplate : 'modules/stock/exit/templates/quantity.tmpl.html',
         aggregationType : uiGridConstants.aggregationTypes.sum,
       }, {
-        field : 'unit_type',
+        field : 'unit',
         width : 75,
         displayName : 'TABLE.COLUMNS.UNIT',
         headerCellFilter : 'translate',
-        cellTemplate : 'modules/stock/exit/templates/unit.tmpl.html',
       }, {
         field : 'available_lot',
         width : 150,
