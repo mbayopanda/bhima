@@ -283,10 +283,10 @@
   dependencies:
     defer-to-connect "^2.0.0"
 
-"@types/angular@^1.6.25", "@types/angular@^1.8.3":
-  version "1.8.3"
-  resolved "https://registry.yarnpkg.com/@types/angular/-/angular-1.8.3.tgz#97602244b685113ce9dc27823471b67d28f5ba3e"
-  integrity sha512-vgc5Z+TD07DT7NEUjFm6XMp0kEbGXIa95XmOL5IiHXR9LdrJpcdDh3jl1nCuZbWyzFn5/1OqtMfomcnA1sUFXQ==
+"@types/angular@^1.8.3", "@types/angular@^1.8.4":
+  version "1.8.4"
+  resolved "https://registry.yarnpkg.com/@types/angular/-/angular-1.8.4.tgz#a2cc163e508389c51d4c4119ebff6b9395cec472"
+  integrity sha512-wPS/ncJWhyxJsndsW1B6Ta8D4mi97x1yItSu+rkLDytU3oRIh2CFAjMuJceYwFAh9+DIohndWM0QBA9OU2Hv0g==
 
 "@types/cacheable-request@^6.0.1":
   version "6.0.1"
@@ -515,12 +515,12 @@ angular-animate@^1.8.0:
   resolved "https://registry.npmjs.org/angular-animate/-/angular-animate-1.8.2.tgz#a3045e523ffb8d7fcbebd3cb68d1fdd474665ced"
   integrity sha512-Jbr9+grNMs9Kj57xuBU3Ju3NOPAjS1+g2UAwwDv7su1lt0/PLDy+9zEwDiu8C8xJceoTbmBNKiWGPJGBdCQLlA==
 
-angular-dynamic-locale@^0.1.37:
-  version "0.1.37"
-  resolved "https://registry.npmjs.org/angular-dynamic-locale/-/angular-dynamic-locale-0.1.37.tgz#7e89fbd2ec45bdd6abc89f36cda8893838e49354"
-  integrity sha512-m5Kyk8W8/mOZSqRxuByOwHBjv8labLBAgvl0Z3iQx2xT/tWCqb94imKUPwumudszdPDjxeopwyucQvm8Sw7ogw==
+angular-dynamic-locale@^0.1.38:
+  version "0.1.38"
+  resolved "https://registry.yarnpkg.com/angular-dynamic-locale/-/angular-dynamic-locale-0.1.38.tgz#9373d5531e6825d291fc92f9e3bcf551f1ec9b9f"
+  integrity sha512-O+bWvCNkIhnedBCYPUgYzVrzXlaYwN8Ke4XpoXoGDu4zIyWNdaFAzMWsuB+dnOD7pKrp8pVkk+ShPSGVnj/3uQ==
   dependencies:
-    "@types/angular" "^1.6.25"
+    "@types/angular" "^1.8.4"
 
 angular-growl-notifications@^2.6.0:
   version "2.6.0"
