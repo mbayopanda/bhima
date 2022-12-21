@@ -118,7 +118,7 @@
     "inline-source": "^7.1.0",
     "ioredis": "^4.27.10",
     "jaro-winkler": "^0.2.8",
-    "jquery": "^3.5.1",
+    "jquery": "^3.6.3",
     "jsbarcode": "^3.11.5",
     "json-2-csv": "^3.14.4",
     "lodash": "^4.17.21",
